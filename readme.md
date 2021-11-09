@@ -1,7 +1,6 @@
 ## Primera Parte
 - createElement
 - appendChild
-- setTimeout?
 
 ## Segunda parte
 - array, que es que guarda
